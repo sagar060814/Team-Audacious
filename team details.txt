@@ -1,1 +1,8 @@
-
+#include<>
+{ int main()
+printf(team details)
+print(sagar verma)
+print(Ansh)
+print(sakshi)
+print(vibhu)
+}
