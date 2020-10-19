@@ -1,8 +1,8 @@
-#include<>
+#include<stdio.h>
 { int main()
-printf(team details)
-print(sagar verma)
-print(Ansh)
-print(sakshi)
-print(vibhu)
+printf("team details");
+printf("sagar verma");
+printf("Ansh");
+printf("sakshi");
+printf("vibhu");
 }
